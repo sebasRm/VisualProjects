@@ -1,2 +1,2 @@
-# VisualProjects
+# VideoJuegos
 Repositorio del proyecto de tesis.
